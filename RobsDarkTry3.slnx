@@ -4,7 +4,7 @@
     <Platform Name="arm64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RobsDarkTry3.csproj">
+  <Project Path="RobsDarkTry3.csproj" Id="d4bdc057-f4b0-4c9b-be02-9a740e36c2b0">
     <Platform Solution="*|arm64" Project="arm64" />
     <Platform Solution="*|x86" Project="x86" />
   </Project>

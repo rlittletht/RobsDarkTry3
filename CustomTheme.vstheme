@@ -1103,7 +1103,7 @@
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -7842,7 +7842,7 @@
     </Category>
     <Category Name="Find Results" GUID="{5c48b2cb-0366-4fbf-9786-0bb37e945687}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -7918,7 +7918,7 @@
     </Category>
     <Category Name="FSharpInteractive" GUID="{00ccee86-3140-4e06-a65a-a92665a40d6f}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -8424,7 +8424,7 @@
     </Category>
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -8876,7 +8876,7 @@
     </Category>
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -8892,7 +8892,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="urlformat">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="Selected Text in High Contrast">
@@ -8902,7 +8902,7 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
@@ -9419,7 +9419,7 @@
         <Background Type="CT_RAW" Source="1A000000" />
       </Color>
       <Color Name="CardStrokeDefaultSolid">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF303050" />
       </Color>
       <Color Name="CardStrokeDefaultSolidAlt">
         <Background Type="CT_RAW" Source="FF0A0A0A" />
@@ -9461,7 +9461,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlOnImageFillDefault">
-        <Background Type="CT_RAW" Source="B21C1C1C" />
+        <Background Type="CT_RAW" Source="B2303050" />
       </Color>
       <Color Name="ControlOnImageFillDisabled">
         <Background Type="CT_RAW" Source="001E1E1E" />
@@ -9545,7 +9545,7 @@
         <Background Type="CT_RAW" Source="4D000000" />
       </Color>
       <Color Name="SmokeFillInverse">
-        <Background Type="CT_RAW" Source="B21C1C1C" />
+        <Background Type="CT_RAW" Source="B2303050" />
       </Color>
       <Color Name="SolidBackgroundFillBase">
         <Background Type="CT_RAW" Source="FF202020" />
@@ -9560,13 +9560,13 @@
         <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF303050" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
         <Background Type="CT_RAW" Source="FF373737" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -9664,7 +9664,7 @@
         <Background Type="CT_RAW" Source="B3FFFFFF" />
       </Color>
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF303050" />
       </Color>
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="0FFFFFFF" />
@@ -9720,7 +9720,7 @@
     </Category>
     <Category Name="SqlResultsGrid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Header Row">
-        <Background Type="CT_RAW" Source="FF2B2B40" />
+        <Background Type="CT_RAW" Source="FF303040" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Cell">
@@ -10995,7 +10995,7 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="Selected Text">
@@ -11081,7 +11081,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Definition Window Background">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Definition Window Current Match">
@@ -11093,7 +11093,7 @@
         <Foreground Type="CT_RAW" Source="FF21444E" />
       </Color>
       <Color Name="Refactoring Background">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Code Snippet Dependent Field">
@@ -11403,7 +11403,7 @@
     </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF251919" />
+        <Background Type="CT_RAW" Source="FF3B3B50" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="DragDropInsertionArrow">
@@ -12499,4 +12499,8 @@
     </Category>
   </Theme>
 </Themes>
+
+
+
+
 
